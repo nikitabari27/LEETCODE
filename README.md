@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/nikitabari27/LEETCODE/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
