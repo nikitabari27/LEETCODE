@@ -1,40 +1,42 @@
 class Solution {
 public:
 
-int solve(vector<int>& coins, int amount, vector<int> &dp){
-    //base case
-    if(amount == 0){
-        return 0;
-    }
-    if(amount < 0){
-        return INT_MAX;
-    }
+int solve(vector<int>& coins, int amount){
 
-    //check
-    if(dp[amount] != -1){
-        return dp[amount];
-    }
+// create dp
+        vector<int> dp(amount+1 , INT_MAX);
+    //observe base case
+    dp[0] =0;
 
-    int mini= INT_MAX;
+    // iterate from 0 to target amount
+    for(int target =1; target<=amount; target++){
+        // 1 se isliye start kyu ki 0 base case m already aa chuka h
 
-    for(int i=0; i<coins.size(); i++){
+            
+            int mini = INT_MAX;
 
-     int  ans = solve(coins , amount-coins[i], dp);
+        for(int i=0; i<coins.size(); i++){
+            
+            
+            if(target-coins[i] >= 0){
+            int ans = dp[target - coins[i]];
 
-        if(ans != INT_MAX){
-            mini =min(mini , ans +1);
+            if(ans != INT_MAX){
+                mini = min(mini, ans+1);
+            }
+         }
+         
+      
         }
+         dp[target] = mini;
     }
-    // store and return ans
-    dp[amount] = mini;
-    return dp[amount];
+     return dp[amount]; 
 }
     int coinChange(vector<int>& coins, int amount) {
         
-        // create dp
-        vector<int> dp(amount+1 , -1);
+    
 
-        int ans= solve(coins, amount, dp);
+        int ans= solve(coins, amount);
 
         if(ans == INT_MAX){
             return -1;
