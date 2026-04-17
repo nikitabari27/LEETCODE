@@ -15,6 +15,8 @@ int bottomUp(int n){
 
     //step3
     for(int i=2; i<=n; i++){
+        // top doen m apan dekha ki n se 2 tk apan ko solve krna pda
+        // kyuki yeh bottom up h isliye 2 se n kiya
         dp[i] =dp[i-1] +dp[i-2];
     }
     return dp[n];
