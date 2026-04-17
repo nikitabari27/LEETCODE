@@ -8,7 +8,7 @@ int topDownApproach(vector<int> &dp , int n){
     }
 
    // step3 -> check if ans already exist
-     if(dp[n] != -1){
+     if(dp[n] != -1){    // kyuki apan ne initialize -1 se kiya tha agr -1 nhi mtlb ans h
         return dp[n];
      }
 
@@ -21,7 +21,7 @@ int topDownApproach(vector<int> &dp , int n){
         //step1->Create dp
         vector<int>dp(n+1 ,-1);
 
-        int ans = topDownApproach (dp ,n);
-        return ans;
+       return  topDownApproach (dp ,n);
+        
     }
 };
