@@ -19,7 +19,7 @@ public:
            else if(num < first && num > second ) {
                 second = num;
             }
-         }  
+          }  
         } 
         return second;
     }
