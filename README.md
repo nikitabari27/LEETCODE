@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikitabari27/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikitabari27/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/nikitabari27/LEETCODE/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/nikitabari27/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/nikitabari27/LEETCODE/tree/master/0704-binary-search) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/nikitabari27/LEETCODE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikitabari27/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nikitabari27/LEETCODE/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikitabari27/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/nikitabari27/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikitabari27/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/nikitabari27/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nikitabari27/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikitabari27/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -134,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikitabari27/LEETCODE/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
