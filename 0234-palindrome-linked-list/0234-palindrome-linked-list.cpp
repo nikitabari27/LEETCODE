@@ -15,7 +15,6 @@ ListNode* reverse(ListNode* head){
 
     ListNode* prev =NULL;
     ListNode* curr= head;
-    // ListNode* forward = curr->next;
 
     while(curr != NULL){
         ListNode* forward = curr->next;
@@ -28,8 +27,6 @@ ListNode* reverse(ListNode* head){
 }
     bool isPalindrome(ListNode* head) {
 
-        
-        
         // Find Middle Node
         ListNode* slow=head;
         ListNode* fast=head->next;
@@ -45,9 +42,6 @@ ListNode* reverse(ListNode* head){
         // Reverse LL
         ListNode* reverseLLKaHead = reverse(slow->next);
       
-      // DOno LL ko join kr diya
-        // slow->next = reverseLLKaHead;
-
         // Start comparing
           ListNode* temp1 = head;
           ListNode* temp2 = reverseLLKaHead;
