@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikitabari27/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikitabari27/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
