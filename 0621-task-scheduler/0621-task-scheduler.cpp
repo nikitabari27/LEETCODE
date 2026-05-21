@@ -11,22 +11,22 @@ public:
         
         // max freq
         int maxFreq =0;
-        for(int f : count){
-            maxFreq = max(maxFreq , f);
+        for(int i=0; i<26; i++){
+            maxFreq = max(maxFreq , count[i]);
         }
 
         // max count
         int maxCount =0;
-        for(int f : count){
-             if(maxFreq==f){
+        for(int i=0; i<26; i++){
+             if(maxFreq==count[i]){
                 maxCount++;
             }
         }
         // formula
-         int m = tasks.size();
         int ans = (maxFreq - 1) * (n+1) + maxCount;
        
-
+        int m= tasks.size();
+        
         int output= max(m , ans);
         return output;
     }
