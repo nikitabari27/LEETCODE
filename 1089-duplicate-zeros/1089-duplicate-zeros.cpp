@@ -11,7 +11,8 @@ public:
                     //shift
                     arr[j]= arr[j-1];
                 }
-               i++;
+               i++; // skip duplicate 0
+               
             }
              
         }
