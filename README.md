@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/nikitabari27/LEETCODE/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikitabari27/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
