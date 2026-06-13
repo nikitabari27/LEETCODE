@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikitabari27/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/nikitabari27/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/nikitabari27/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikitabari27/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nikitabari27/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
