@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikitabari27/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/nikitabari27/LEETCODE/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikitabari27/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/nikitabari27/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nikitabari27/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikitabari27/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/nikitabari27/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
