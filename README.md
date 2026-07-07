@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikitabari27/LEETCODE/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
 | ------- |
