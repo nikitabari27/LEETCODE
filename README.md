@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikitabari27/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/nikitabari27/LEETCODE/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nikitabari27/LEETCODE/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Queue
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nikitabari27/LEETCODE/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikitabari27/LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
