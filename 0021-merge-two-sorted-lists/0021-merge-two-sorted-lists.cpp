@@ -23,26 +23,25 @@ public:
 
             if(list1->val <= list2->val){
                 temp->next= list1;
-                temp = list1;
                 list1 =list1->next;
             }
             else{
                 temp->next= list2;
-                 temp = list2;
                 list2 =list2->next;
 
             }
+            temp= temp->next;
         }
 
         while(list1 != NULL){
                 temp->next= list1;
-                 temp = list1;
+                 temp= temp->next;
                 list1 =list1->next;
         }
         
         while(list2 != NULL){
                 temp->next= list2;
-                 temp = list2;
+                temp= temp->next;
                 list2=list2->next;
         }
 
