@@ -28,6 +28,9 @@ public:
   // Find len;
        int len= getLength(head);
 
+        k= k%len;
+         if(k==0) return head;
+
        //Find lastNode or old tail
        ListNode* tail=head;
        while(tail->next != NULL){
@@ -38,8 +41,8 @@ public:
         tail->next= head;
 
         // Remaing nodes
-         int newK= k%len;
-        int remainNodes= len-newK;
+        
+        int remainNodes= len-k;
 
        //Fir ek new pointer bnaya newTail jisse head pe point liya
        ListNode* newTail = head;
