@@ -10,55 +10,50 @@
  */
 class Solution {
 public:
-
-  int getLength(ListNode* &head){
-     
-     int len =0;
-     ListNode* temp =head;
-
-     while(temp != NULL){
-        len++;
-        temp = temp->next;
-     }
-     return len;
-  }
+    int getLength(ListNode*head){
+        int len =1;
+        ListNode *temp= head;
+        while(temp->next != NULL){
+            temp = temp->next;
+            len++; 
+               
+        }
+        return len;
+    }
     ListNode* rotateRight(ListNode* head, int k) {
 
-        if(head == NULL || head->next == NULL || k == 0){
-            return head;
-        }
-        
-        // Find len
-        int len = getLength(head);
+        //base
+         if(k==0 || head==NULL || head->next == NULL)return head;
+ 
+  // Find len;
+       int len= getLength(head);
 
-        // Find tail
-        ListNode* tail = head;
-        while(tail ->next != NULL){
-            tail= tail->next;
-        }
+       //Find lastNode or old tail
+       ListNode* tail=head;
+       while(tail->next != NULL){
+        tail= tail->next;
+       }
 
-        // k
-        k = k% len;
+       // Ab  pehle last next ko head se connect kr dege
+        tail->next= head;
 
-        // Mtlb jb len aur k  kivalue same ho
-        if(k==0){
-            return head;
-        }
-        // Make circular LL
-        tail ->next = head;
+        // Remaing nodes
+         int newK= k%len;
+        int remainNodes= len-newK;
 
-        //Now find last node of new LL
-        int lastNode = len -k;
+       //Fir ek new pointer bnaya newTail jisse head pe point liya
+       ListNode* newTail = head;
 
-        ListNode* newTail = head;
+       //Ab isse aage badayge  
+       for(int i=1; i<remainNodes; i++){
+        newTail= newTail->next;
+       }
+       // loop fail hone ke baad jo newTail ka next vale node h uspe ek naya pointer lgayege
+       ListNode* newHead = newTail->next;
 
-        for(int i=1; i<lastNode; i++){
-            newTail = newTail ->next;
-        }
-        ListNode* newHead = newTail->next;
+       //  Ab linkin tod dege 
+       newTail->next= NULL;
 
-        newTail->next =NULL;
-
-        return newHead;
+     return newHead;   
     }
 };
