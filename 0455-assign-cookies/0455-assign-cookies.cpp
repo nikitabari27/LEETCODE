@@ -11,10 +11,12 @@ public:
         while(i <g.size() && j<s.size()){
 
         if(s[j] >= g[i]){
+            // yha pe dono satisfied h
             i++;
             j++;
         }
         else{
+           // cookie is too small and because we have sorted the arr aage badi value hi hoge;
             j++;
         }
      }
