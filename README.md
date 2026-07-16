@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nikitabari27/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikitabari27/LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nikitabari27/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
