@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikitabari27/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/nikitabari27/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/nikitabari27/LEETCODE/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikitabari27/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -286,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikitabari27/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
