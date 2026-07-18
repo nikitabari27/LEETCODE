@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikitabari27/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikitabari27/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/nikitabari27/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikitabari27/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/nikitabari27/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Number Theory
 |  |
 | ------- |
