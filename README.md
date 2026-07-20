@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/nikitabari27/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/nikitabari27/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikitabari27/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikitabari27/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/nikitabari27/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/nikitabari27/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikitabari27/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikitabari27/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikitabari27/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/nikitabari27/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/nikitabari27/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikitabari27/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
