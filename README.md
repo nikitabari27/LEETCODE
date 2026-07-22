@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikitabari27/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2788-split-strings-by-separator](https://github.com/nikitabari27/LEETCODE/tree/master/2788-split-strings-by-separator) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/nikitabari27/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2788-split-strings-by-separator](https://github.com/nikitabari27/LEETCODE/tree/master/2788-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
