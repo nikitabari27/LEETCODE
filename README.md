@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/nikitabari27/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikitabari27/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikitabari27/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nikitabari27/LEETCODE/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikitabari27/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/nikitabari27/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/nikitabari27/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nikitabari27/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nikitabari27/LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/nikitabari27/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikitabari27/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
