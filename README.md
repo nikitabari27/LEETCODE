@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/nikitabari27/LEETCODE/tree/master/1200-minimum-absolute-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nikitabari27/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/nikitabari27/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikitabari27/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/nikitabari27/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikitabari27/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
