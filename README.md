@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nikitabari27/LEETCODE/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nikitabari27/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nikitabari27/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/nikitabari27/LEETCODE/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nikitabari27/LEETCODE/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nikitabari27/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nikitabari27/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/nikitabari27/LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/nikitabari27/LEETCODE/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nikitabari27/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikitabari27/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
