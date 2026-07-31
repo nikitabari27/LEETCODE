@@ -4,22 +4,21 @@ public:
         
         int s=0;
         int e=nums.size()-1;
-        int mid= s+(e-s)/2;
-        int ans=nums.size();
 
         while(s<=e){
+
+          int  mid= s+(e-s)/2;
             
             if(nums[mid]==target)return mid;
 
-            else if(nums[mid]>target){
-                ans=mid;
-                e=mid-1;
+            else if(nums[mid] < target){
+                
+                s= mid+1;
             }
             else{
-                s=mid+1;
+                e=mid-1;
             }
-            mid= s+(e-s)/2;
         }
-        return ans;
+        return s;
     }
 };
