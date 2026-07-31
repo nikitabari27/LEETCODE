@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikitabari27/LEETCODE/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikitabari27/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nikitabari27/LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikitabari27/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nikitabari27/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikitabari27/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nikitabari27/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikitabari27/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikitabari27/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nikitabari27/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikitabari27/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/nikitabari27/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nikitabari27/LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikitabari27/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
