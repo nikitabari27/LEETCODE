@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikitabari27/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nikitabari27/LEETCODE/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikitabari27/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nikitabari27/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/nikitabari27/LEETCODE/tree/master/0709-to-lower-case) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/nikitabari27/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikitabari27/LEETCODE/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/nikitabari27/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/nikitabari27/LEETCODE/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nikitabari27/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikitabari27/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nikitabari27/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/nikitabari27/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/nikitabari27/LEETCODE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nikitabari27/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
