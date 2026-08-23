@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/nikitabari27/LEETCODE/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/nikitabari27/LEETCODE/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikitabari27/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/nikitabari27/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/nikitabari27/LEETCODE/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nikitabari27/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nikitabari27/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nikitabari27/LEETCODE/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/nikitabari27/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikitabari27/LEETCODE/tree/master/0169-majority-element) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nikitabari27/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
