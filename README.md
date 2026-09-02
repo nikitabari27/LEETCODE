@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/nikitabari27/LEETCODE/tree/master/2788-split-strings-by-separator) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikitabari27/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nikitabari27/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikitabari27/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikitabari27/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikitabari27/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nikitabari27/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
