@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/nikitabari27/LEETCODE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/nikitabari27/LEETCODE/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/nikitabari27/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikitabari27/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/nikitabari27/LEETCODE/tree/master/1200-minimum-absolute-difference) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitabari27/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nikitabari27/LEETCODE/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/nikitabari27/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikitabari27/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
