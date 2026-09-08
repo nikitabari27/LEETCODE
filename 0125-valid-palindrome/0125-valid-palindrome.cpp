@@ -2,29 +2,28 @@ class Solution {
 public:
     bool isPalindrome(string s) {
         
-        // int i=0;
-        // int j=s.size();
+        string ans="";
+        for(int i=0; i<s.size(); i++){
 
-        string alpha;
+            if(isalnum(s[i])){
+                ans.push_back(tolower(s[i]));
+            }
+        }
+         
 
-       for(int i=0; i<s.size(); i++){
-          if(isalnum(s[i])){
-             alpha.push_back(s[i]);
-          }
-       
-    }
-    transform(alpha.begin(), alpha.end(), alpha.begin(), ::tolower);
+        int i=0; 
+        int j= ans.size()-1;
 
-    int i=0;
-    int j =alpha.size()-1;
+        while(i<=j){
 
-    while(i<j){
-         if(alpha[i] != alpha[j]){
-            return false;
-           }
-           i++;
-           j--;
-         }
+            if(ans[i]==ans[j]){
+                i++;
+                j--;
+            }
+            else{
+                return false;
+            }
+        }
         return true;
     }
 };
