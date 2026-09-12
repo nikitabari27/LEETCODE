@@ -33,18 +33,15 @@ ListNode* reverseLL(ListNode* & head){
         ListNode* slow= head;
         ListNode* fast= head->next;
 
-        while( fast != NULL){
-            fast= fast->next;
-        
-        if(fast !=NULL){
+        while( fast != NULL && fast->next != NULL){
+
             slow= slow->next;
-            fast= fast->next;
-         }
+            fast= fast->next->next;
         }
 
         // middle node ke agge ki LL reverse kr lo
 
-        ListNode* reverse = reverseLL(slow->next);
+        ListNode* reverse = reverseLL(slow);
 
         // compare
 
