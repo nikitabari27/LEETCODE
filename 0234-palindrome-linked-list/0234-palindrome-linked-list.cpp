@@ -11,51 +11,56 @@
 class Solution {
 public:
 
-ListNode* reverse(ListNode* head){
+ListNode* reverseLL(ListNode* & head){
 
-    ListNode* prev =NULL;
-    ListNode* curr= head;
+    ListNode* prev = NULL;
+    ListNode* curr =head;
 
-    while(curr != NULL){
-        ListNode* forward = curr->next;
-        curr->next =prev;
+    while(curr!=NULL){
 
-        prev =curr;
-        curr =forward;
+        ListNode* forward= curr->next;
+
+        curr->next = prev;
+
+        prev= curr;
+        curr= forward;
     }
-     return prev;
+    return prev;
 }
     bool isPalindrome(ListNode* head) {
+        
+// Find middle node
+        ListNode* slow= head;
+        ListNode* fast= head->next;
 
-        // Find Middle Node
-        ListNode* slow=head;
-        ListNode* fast=head->next;
-
-        while(fast !=NULL){
-            fast = fast->next;
-             
-             if(fast!=NULL){
-                fast= fast->next;
-                slow= slow->next;
-             }
+        while( fast != NULL){
+            fast= fast->next;
+        
+        if(fast !=NULL){
+            slow= slow->next;
+            fast= fast->next;
+         }
         }
-        // Reverse LL
-        ListNode* reverseLLKaHead = reverse(slow->next);
-      
-        // Start comparing
-          ListNode* temp1 = head;
-          ListNode* temp2 = reverseLLKaHead;
 
-          while(temp2 != NULL){
+        // middle node ke agge ki LL reverse kr lo
+
+        ListNode* reverse = reverseLL(slow->next);
+
+        // compare
+
+        ListNode*temp1 =head;
+        ListNode*temp2 =reverse;
+
+        while(temp1 != NULL && temp2 != NULL){
 
             if(temp1->val != temp2->val){
                 return false;
             }
-            else{
-                temp1 = temp1->next;
-                temp2 = temp2->next;
-            }
-          }
-          return true; 
+            
+                temp1= temp1->next;
+                temp2= temp2->next;
+        
+        }
+        return true;
     }
 };
