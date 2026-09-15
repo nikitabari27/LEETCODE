@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikitabari27/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/nikitabari27/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/nikitabari27/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nikitabari27/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikitabari27/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikitabari27/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikitabari27/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikitabari27/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/nikitabari27/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nikitabari27/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikitabari27/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nikitabari27/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nikitabari27/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nikitabari27/LEETCODE/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/nikitabari27/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nikitabari27/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikitabari27/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/nikitabari27/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikitabari27/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nikitabari27/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikitabari27/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nikitabari27/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nikitabari27/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikitabari27/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nikitabari27/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nikitabari27/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/nikitabari27/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikitabari27/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nikitabari27/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/nikitabari27/LEETCODE/tree/master/3903-smallest-stable-index-i) |
