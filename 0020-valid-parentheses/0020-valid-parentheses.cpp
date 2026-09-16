@@ -1,53 +1,50 @@
 class Solution {
 public:
     bool isValid(string s) {
-        
-        stack<char>st;
 
-        for(int i=0; i<s.size(); i++){
-            char ch = s[i];
+       stack<char> st;
 
-            //opening brackets push in stack
-            if(ch=='(' || ch=='{' || ch=='['){
-                st.push(ch);
-            }
-            else{
-                //closing bracket
+       for(int i=0; i<s.size(); i++){
+         char ch= s[i];
 
-                // check if stack is empty or not becouse if it is already empty return false
-                if(!st.empty()){
+         // opening bracket
+          if(ch=='(' || ch=='[' || ch=='{'){
+             st.push(ch);
+          }
 
-                    char topCh = st.top();
+          // closing bracket
+          else{
 
-                    if(ch==')' && topCh=='('){
-                        //Matching brackets
-                        st.pop();
-                    }
-                    else if(ch=='}' && topCh=='{'){
-                        //Matching brackets
-                        st.pop();
-                    }
-                    else if(ch==']' && topCh=='['){
-                        //Matching brackets
-                        st.pop();
-                    }
-                    else{
-                    // Brackets are not matching
-                    return false;
-                   }
+             if(!st.empty()){
+
+                char top= st.top();
+                 
+                if(top=='('  && ch==')'){// brackets are mateching
+                    st.pop();
                 }
+                 else if(top=='['  && ch==']'){
+                    st.pop();
+                }
+                 else if(top=='{'  && ch=='}'){
+                    st.pop();
+                }
+               // Brackets are not matching
+                else{
+                  return false;
+               }
+             }
+
+             // if stack is empty
              else{
-                //stack is empty
                 return false;
-              }   
-            }
-        }  
-        
+             }
+          }  
+       }
         if(st.empty()){
             return true;
-        }
-        else{
+          } 
+          else{
             return false;
-        }
+          }
     }
 };
