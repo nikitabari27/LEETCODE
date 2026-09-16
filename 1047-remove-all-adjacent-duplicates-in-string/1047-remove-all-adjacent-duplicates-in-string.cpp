@@ -4,30 +4,33 @@ public:
         
         stack<char> st;
 
-        string ans;
-
         for(int i=0; i<s.size(); i++){
+            char ch = s[i];
 
-           if(st.empty() || st.top()!=s[i]){
-             st.push(s[i]);
-           }
-           else{
-              st.pop();
-           }
+            if(st.empty()){
+                st.push(ch);
+            }
+            else{
+             char top= st.top();
+
+            if(top!=ch){
+                st.push(ch);
+            }
+            else{
+                st.pop();
+            }
         }
+      }
+      string ans="";
 
         while(!st.empty()){
-            int top= st.top();
-            
-            ans.push_back(top);
-            
-            st.pop();
-           
-        }
+             
+             ans.push_back(st.top());
 
-         reverse(ans.begin(), ans.end());
+            st.pop();
+        }
+        reverse(ans.begin(), ans.end());
 
         return ans;
-        
     }
 };
