@@ -482,5 +482,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/nikitabari27/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/nikitabari27/LEETCODE/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/nikitabari27/LEETCODE/tree/master/0183-customers-who-never-order) |
+| [1068-product-sales-analysis-i](https://github.com/nikitabari27/LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/nikitabari27/LEETCODE/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
