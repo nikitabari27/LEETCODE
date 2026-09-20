@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/nikitabari27/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/nikitabari27/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2788-split-strings-by-separator](https://github.com/nikitabari27/LEETCODE/tree/master/2788-split-strings-by-separator) |
+| [3498-reverse-degree-of-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/nikitabari27/LEETCODE/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nikitabari27/LEETCODE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
