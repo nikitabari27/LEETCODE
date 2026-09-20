@@ -3,14 +3,17 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
 
     
-    set<vector<int>> ans;
+    vector<vector<int>> ans;
     sort(nums.begin(), nums.end());
     
-    int i=0;
+   
 
-     while(i<nums.size()-2){
+     for(int i=0 ; i<nums.size()-2 ; i++){
         int left= i+1;
         int right= nums.size()-1;
+
+        //remove first duplicate elem in triplet
+        if(i>0 && nums[i] == nums[i-1]) continue;
 
         while(left < right){
 
@@ -26,18 +29,18 @@ public:
         }
 
         else{
-           ans.insert({nums[i], nums[left], nums[right]});
+           ans.push_back({nums[i], nums[left], nums[right]});
             left++;
             right--;
+
+            //remove left and right elem duplicate , so that no duplicate triplet form
+            while(left<right && nums[left]  == nums[left-1]) {left++;}
+
+            while(left<right && nums[right] == nums[right+1]) {right--;}
         }
 
         }
-        i++;
      }
-     vector<vector<int>> a;
-     for(auto  x : ans){
-        a.push_back(x);
-     }
-     return a;
+     return ans;
     }
 };
