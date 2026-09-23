@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/nikitabari27/LEETCODE/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/nikitabari27/LEETCODE/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/nikitabari27/LEETCODE/tree/master/0183-customers-who-never-order) |
+| [0584-find-customer-referee](https://github.com/nikitabari27/LEETCODE/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/nikitabari27/LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nikitabari27/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/nikitabari27/LEETCODE/tree/master/1683-invalid-tweets) |
