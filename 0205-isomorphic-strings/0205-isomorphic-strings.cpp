@@ -9,8 +9,6 @@ public:
 
         for(int i=0; i<s.size(); i++){
 
-           
-
         if(mp1.count(s[i]) && mp1[s[i]] != t[i])return false;
 
         if(mp2.count(t[i]) && mp2[t[i]] != s[i])return false;
