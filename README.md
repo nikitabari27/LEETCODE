@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/nikitabari27/LEETCODE/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nikitabari27/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/nikitabari27/LEETCODE/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/nikitabari27/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 ## Radix Sort
 |  |
 | ------- |
