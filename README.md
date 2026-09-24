@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nikitabari27/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nikitabari27/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nikitabari27/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/nikitabari27/LEETCODE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikitabari27/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/nikitabari27/LEETCODE/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/nikitabari27/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nikitabari27/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nikitabari27/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nikitabari27/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/nikitabari27/LEETCODE/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nikitabari27/LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/nikitabari27/LEETCODE/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nikitabari27/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikitabari27/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikitabari27/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/nikitabari27/LEETCODE/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/nikitabari27/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nikitabari27/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/nikitabari27/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nikitabari27/LEETCODE/tree/master/0877-stone-game) |
