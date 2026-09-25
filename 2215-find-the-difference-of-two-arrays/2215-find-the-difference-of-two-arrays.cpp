@@ -2,31 +2,40 @@ class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
         
-        unordered_map<int, int> mp;
+        vector<vector<int>>ans;
+
+        set<int> st;
 
         for(int i=0; i<nums1.size(); i++){
-            mp[nums1[i]]++;
+            st.insert(nums1[i]);
         }
-
-         unordered_map<int, int> mp1;
+         set<int> st1;
 
         for(int i=0; i<nums2.size(); i++){
-            mp1[nums2[i]]++;
+            st1.insert(nums2[i]);
         }
-        
-        vector<int> v1, v2;
-        for(auto i: mp){
 
-            if(mp1.find(i.first)== mp1.end()){
-                v1.push_back(i.first);
+        vector<int>v1;
+
+        for(int it: st){
+
+            if(!st1.contains(it)){
+                v1.push_back(it);
             }
         }
-        for(auto i: mp1){
+       
 
-            if(mp.find(i.first)== mp.end()){
-                v2.push_back(i.first);
+        vector<int>v2;
+
+        for(int it: st1){
+
+            if(!st.contains(it)){
+                v2.push_back(it);
             }
         }
-        return {v1, v2};
+       ans.push_back(v1);
+       ans.push_back(v2);
+
+       return ans;
     }
 };
