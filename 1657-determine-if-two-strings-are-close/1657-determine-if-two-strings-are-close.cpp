@@ -4,41 +4,31 @@ public:
         
         if(word1.size() != word2.size())return false;
 
-        unordered_map<char, int> mp1;
-        unordered_map<char, int> mp2;
+        int arr1[26];
+        int arr2[26];
 
-        for(int i=0; i<word1.size(); i++){
+        for(int i=0; i< word1.size(); i++){
 
-            mp1[word1[i]]++;
-            mp2[word2[i]]++;
+            arr1[word1[i]- 'a']++;
+            arr2[word2[i]- 'a']++;
         }
 
-        // isse char match kiye dono mp m ki same h kya
+        // check for unique char
 
-        for(auto it: mp1){
+        for(int i=0; i<26; i++){
 
-            if(!mp2.contains(it.first))return false;
+            if((arr1[i]==0 && arr2[i] != 0) ||(arr2[i]==0 && arr1[i] != 0)) return false;
         }
 
-        // now match freq
+        // check for unique freq
 
-        vector<int> freq1;
-        vector<int> freq2;
+        sort(arr1, arr1+26);
+        sort(arr2, arr2+26);
 
-        for(auto it: mp1){
-            freq1.push_back(it.second);
-        }
-         for(auto it: mp2){
-            freq2.push_back(it.second);
-        }
-
-        sort(freq1.begin(), freq1.end());
-        sort(freq2.begin(), freq2.end());
-
-        if(freq1!=freq2)return false;
-
-
+       for(int i=0; i<26; i++){
+         if(arr1[i] != arr2[i])return false;
         
-       return true;
+       }
+        return true;
     }
 };
