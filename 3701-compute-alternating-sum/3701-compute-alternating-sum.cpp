@@ -4,17 +4,18 @@ public:
         
         if(nums.size()==1)return nums[0];
        
-       int sum =0;
-       
+       int sume =0;
+       int sumo = 0;
+
         for(int i=0; i<nums.size(); i++){
 
             if(i % 2 ==0){
-                sum += nums[i];
+                sume += nums[i];
             }
             else{
-                sum -= nums[i];
+                sumo += nums[i];
             }
         }
-        return sum;
+        return sume - sumo;
     }
 };
