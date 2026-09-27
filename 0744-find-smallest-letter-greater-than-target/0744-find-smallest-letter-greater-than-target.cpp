@@ -19,7 +19,11 @@ public:
                 s=mid+1;
             }
         }
-        return letters[s % letters.size()];
+      if(s == letters.size())return letters[0];
+
+      else{
+        return letters[s];
+      }
 
     }
 };
