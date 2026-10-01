@@ -1,50 +1,45 @@
 class Solution {
 public:
     bool isValid(string s) {
+        
+        stack<int> st;
 
-       stack<char> st;
+        for(int i=0; i<s.size(); i++){
 
-       for(int i=0; i<s.size(); i++){
-         char ch= s[i];
+            char ch= s[i];
 
-         // opening bracket
-          if(ch=='(' || ch=='[' || ch=='{'){
-             st.push(ch);
-          }
+            if(ch =='(' || ch=='['|| ch=='{'){
+                st.push(ch);
+            }
 
-          // closing bracket
-          else{
+            else{
 
-             if(!st.empty()){
+                if(st.empty())return false;
 
-                char top= st.top();
-                 
-                if(top=='('  && ch==')'){// brackets are mateching
-                    st.pop();
-                }
-                 else if(top=='['  && ch==']'){
-                    st.pop();
-                }
-                 else if(top=='{'  && ch=='}'){
-                    st.pop();
-                }
-               // Brackets are not matching
                 else{
-                  return false;
-               }
-             }
 
-             // if stack is empty
-             else{
-                return false;
-             }
-          }  
-       }
-        if(st.empty()){
+                    char newch = s[i];
+
+                    if(st.top() =='(' && newch==')'){
+                        st.pop();
+                    }
+                   else if(st.top() =='[' && newch==']'){
+                        st.pop();
+                    }
+                    else if(st.top() =='{' && newch=='}'){
+                        st.pop();
+                    }
+                    else{
+                        return false;
+                    }
+                }
+            }
+        }
+
+        if(!st.empty())return false;
+
+        else{
             return true;
-          } 
-          else{
-            return false;
-          }
+        }
     }
 };
