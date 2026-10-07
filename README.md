@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikitabari27/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nikitabari27/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nikitabari27/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikitabari27/LEETCODE/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nikitabari27/LEETCODE/tree/master/0037-sudoku-solver) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nikitabari27/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/nikitabari27/LEETCODE/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/nikitabari27/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nikitabari27/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikitabari27/LEETCODE/tree/master/0088-merge-sorted-array) |
