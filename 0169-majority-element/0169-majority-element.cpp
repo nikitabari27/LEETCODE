@@ -1,23 +1,25 @@
 class Solution {
 public:
+static bool cmp(pair<int, int> a, pair<int, int> b){
+    return a.second > b.second;
+}
     int majorityElement(vector<int>& nums) {
         
-        int count=0;
-        int candidate =0;
+       unordered_map<int, int> mp;
 
-        for(int i=0; i<nums.size(); i++){
+       for(int i=0; i<nums.size(); i++){
+          mp[nums[i]]++;
+       }
 
-            if(count==0){
-                candidate = nums[i];
-            }
+       vector<pair<int, int>> v;
 
-            if(candidate == nums[i]){
-                count++;
-            }
-            else{
-                count--;
-            }
-        }
-        return candidate;
-    }
+       for(auto it: mp){
+         v.push_back({it.first, it.second});
+       }
+
+       sort(v.begin(), v.end(), cmp);
+
+       return v[0].first;
+    
+   }
 };
